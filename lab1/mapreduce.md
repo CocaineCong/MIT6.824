@@ -471,7 +471,9 @@ func Reduce(key string, values []string) *roaring.Bitmap {
 }
 ```
 
+最终 output 输出
 
+![output](https://raw.githubusercontent.com/CremeU/cloud-img/main/1695145441347.jpg)
 
 以上就是我对6.824这个课程的lab1的所有理解了，并且运用到了 tangseng 搜索引擎中。希望多年之后再次看到这次的lab，能有不同的体会，能有更深的理解。
 
